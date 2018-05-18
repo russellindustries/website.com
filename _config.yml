@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+<html>
+  <head>
+    {% include head.html %}
+    {% seo %}
+  </head>
+</html>
